@@ -1,0 +1,5 @@
+~The perimeter of a shape is the length of the outside of the shape. It is outlined in the above shapes in magenta.
+~To measure the perimeter of any shape (except circles), you just add up the lengths of all the sides.
+~In the case of the rectangle above, perimeter = 2L + 2W.
+~In circles, circumference = π X diameter = 2πr (since diameter is twice the length of the radius).
+Note: π is the ratio of a circle's circumference (its perimeter) to its diameter. It is approximately equal to 3.14159.
